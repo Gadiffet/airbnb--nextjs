@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## BILAN
 
-point positif : 
+Point positif : 
 
 - très rapide pour faire un test
 - 1 seul projet (back / front)
@@ -45,9 +45,12 @@ point positif :
 - système de route
 - pas obligé de faire du fullstack
 
-point négatif :
+Point négatif :
 
 - pour des backs très léger
 - plus le projet est complexe moins c'est facile
 - dépendance à NEXT et son environnement 
-- 
+
+Made with :
+* [@fraderoubaix](https://github.com/fraderoubaix)
+* [@LucieGeio](https://github.com/LucieGeio)
