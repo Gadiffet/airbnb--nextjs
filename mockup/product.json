@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Le cap",
+    "description": "Magnifique auberge, la mer est très calme",
+    "note": 5,
+    "prix": 123,
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-717134404264905813/original/dfe9fd1e-a010-43c9-b546-0bbc7d59f7f3.jpeg?im_w=720"
+  },
+  {
+  "id": "2",
+  "title": "New Moon Cottage",
+  "description": "An isolated cottage in São Gotardo - Flores da Cunha, cozy for you to enjoy good times with those you love.\n\nWe offer romantic packages, for more information contact us or check on our instagram chales .lua.cheia_e_Đ\n\nLove, cozy, and settle into this cozy modern space",
+  "note": 3,
+  "prix": 73,
+  "img": "https://a0.muscache.com/im/pictures/miso/Hosting-715759276214360126/original/875ea373-9fa5-4632-9228-0bb8aa3efa88.jpeg?im_w=1200"
+  },
+  {
+    "id": "3",
+    "title": "Cedar City",
+    "description": "Escape the busy life and relax in the countryside in Beautiful Kanarraville, UT. Our Friendly cows will meet you off your private back patio!\n\nThis serene, private guest home on our family ranch is just 9 miles south of Cedar City. Enjoy our friendly farm animals, orchard, and seasonal garden. ",
+    "note": 4,
+    "prix": 190,
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-740634701378172939/original/8ef7a4b0-79b0-439c-9da0-4a170ad4090d.jpeg?im_w=720"
+  },
+  {
+    "id": "4",
+    "title": "Tower hosted",
+    "description": "Perched high on an ocean hillside, built on 30 ft tall steel legs, the cozy quarters above are akin to an old ship’s cabin. With 360 views at 30ft up you can chart the sun and stars across the sky, set your rhythm to the ebb & flow of the tide and scout the surf from above. Greet the evenings with a cozy woodstove, sunset with drinks on the deck, moonrise with a dip in the hottub & mornings with fresh espresso. Permit yourself to depart land for a while and come stand watch at The Tower.",
+    "note": 5,
+    "prix": 371,
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-713898202877836679/original/5bd69eb7-e4ae-4615-97b7-440f1658683c.jpeg?im_w=1200"
+  }
+]

@@ -32,3 +32,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## BILAN
+
+point positif : 
+
+- très rapide pour faire un test
+- 1 seul projet (back / front)
+- connexion avec BDD
+- back très abstrait
+- fronteux = <3
+- système de route
+- pas obligé de faire du fullstack
+
+point négatif :
+
+- pour des backs très léger
+- plus le projet est complexe moins c'est facile
+- dépendance à NEXT et son environnement 
+- 
